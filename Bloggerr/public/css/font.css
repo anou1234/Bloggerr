@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "Open_Sans";
+    src: url('/Open_Sans/OpenSans-VariableFont_wdth,wght.ttf');
+}
+
+@font-face {
+    font-family: "Regular1";
+    src: url('/Inspiration/Inspiration-Regular.ttf');
+}
+@font-face {
+    font-family: "Josefin";
+    src: url('/webfonts/Josefin_Sans/JosefinSans-Thin.ttf');
+}
+@font-face {
+    font-family: "lato";
+    src: url('/webfonts/lato/Lato-Regular.ttf');
+}
+

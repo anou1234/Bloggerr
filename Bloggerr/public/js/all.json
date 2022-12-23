@@ -1,0 +1,30 @@
+{
+    "navbrand":"\n                        <a href=\"#\" id=\"nav-brand\">Bloggerr\n                        </a>",
+
+    "toggleicons":"\n                        <div class=\"toggle-icons\" id=\"toggle-icons\">\n                    <i class=\"fas fa-bars\"></i>\n                </div>",
+    
+    "navitems":"\n                        <ul class=\"nav-items\" id=\"nav-items\">\n                    <li class=\"nav-link\">\n                        <a href=\"home\">Home</a>\n                    </li>\n                    <li class=\"nav-link\">\n                        <a href=\"\">Category</a>\n                    </li>\n                    <li class=\"nav-link\">\n                        <a href=\"\">Archive</a>\n                    </li>\n                    <li class=\"nav-link\">\n                        <a href=\"\">Pages</a>\n                    </li>\n                    <li class=\"nav-link\">\n                        <a href=\"\">Contact Us</a>\n                    </li>\n                </ul>\n                ",
+    
+    "social":"\n                        <a href=\"#\"><i class=\"fa-brands fa-facebook-f\"></i></a>\n                <a href=\"#\"><i class=\"fa-brands fa-instagram\"></i></a>\n                <a href=\"#\"><i class=\"fa-brands fa-twitter\"></i></a>\n                <a href=\"#\"><i class=\"fa-brands fa-youtube\"></i> </a>\n                ",
+
+    "editorbackground":"\n    <div class=\"tile1\">\n      <img src=\"/assets/tileimg1.webp\" >\n      <img src=\"/assets/tileimg3.webp\">\n      <img src=\"/assets/tileimg2.webp\">\n      <div class=\"tile\">My Life. My Blog. </div>\n    </div>\n  ",
+
+    "writeuplogin":"\n            <input type=\"text\" name=\"name\" placeholder=\"Your Name\" class=\"input\">\n            <input type=\"text\" name=\"email\" placeholder=\"Your Email Address\" class=\"input\">\n          ",
+
+    "writeupsubject":"<div class=\"subject\" id=\"writeupsubject\">\n            <input type=\"text\" placeholder=\"Subject\" name=\"subject\" class=\"input\">\n          </div>",
+
+    "writeupmsg":"\n            <textarea class=\"area\" name=\"description\" placeholder=\"Start Writing...\"></textarea>\n          ",
+
+    "writeupbtn":"<input type=\"submit\" value=\"submit\" class=\"btn\">",
+
+    "aboutus":"\n                <h2>About us</h2>\n                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium quia atque nemo ad modi officiis\n                    iure, autem nulla tenetur repellendus.</p>\n            ",
+
+
+"footernewsletter":"\n                <h2>Newsletter</h2>\n                <p>Stay update with our latest</p>\n                <div class=\"form-element\">\n                    <input type=\"text\" placeholder=\"Email\"><span><i class=\"fas fa-chevron-right\"></i></span>\n                </div>\n            ",
+
+"instagram":"\n                <h2>Instagram</h2>\n                <div class=\"flex-row\">\n                    <img src=\"/assets/instagram/thumb-card3.png\" alt=\"insta1\">\n                    <img src=\"/assets/instagram/thumb-card4.png\" alt=\"insta2\">\n                    <img src=\"/assets/instagram/thumb-card5.png\" alt=\"insta3\">\n                </div>\n                <div class=\"flex-row\">\n                    <img src=\"/assets/instagram/thumb-card6.png\" alt=\"insta4\">\n                    <img src=\"/assets/instagram/thumb-card7.png\" alt=\"insta5\">\n                    <img src=\"/assets/instagram/thumb-card8.png\" alt=\"insta6\">\n                </div>\n            ",
+
+"follow":"\n                <h2>Follow us</h2>\n                <p>Let us be Social</p>\n                <div>\n                    <i class=\"fab fa-facebook-f\"></i>\n                    <i class=\"fab fa-twitter\"></i>\n                    <i class=\"fab fa-instagram\"></i>\n                    <i class=\"fab fa-youtube\"></i>\n                </div>\n            ",
+
+"moveup":"\n            <span>\n                <i class=\"fas fa-arrow-circle-up fa-2x\"></i></span>\n        "
+}

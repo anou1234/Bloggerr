@@ -1,0 +1,177 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background-size: cover;
+  font-family: 'Roboto';
+}
+
+.top{
+  background-color: rgb(163, 157, 157);
+  height: 10vh;
+  color: #fff;
+  font-size: 60px;
+  font-family: var(--Regular1);
+  text-shadow: 0px 2px 4px #ffffff;
+  padding-left: 0.2rem;
+}
+
+.editor-background{
+    display: flex;
+    padding-top: 5vh;
+    justify-content: space-between;
+    margin-right: 0;
+}
+.tile1{
+      position: relative;
+      display: contents;
+}
+.tile1 img:hover{
+  transform: scale(1.1);
+  cursor: pointer;
+}
+.tile1 img{
+  transition: all 1s ease;
+}
+.tile{
+  
+  height:10vh;
+  margin-left: 70vh;
+  width: 31rem;
+  background-color: rgb(255, 253, 253);
+  margin-top: 95vh;
+  position: absolute;
+  text-align: center;
+  padding-top: 20px;
+  font-family: 'Roboto';
+  font-size: xx-large;
+  font-weight: bold;
+  box-shadow: 5px 10px 14px rgb(218, 213, 213);
+  color: #5c5c5c;
+  text-shadow: 0px 2px 7px #928c8c;
+  
+}
+
+.container1{
+  width: 950px;
+  height: 950px;
+  margin: 20vh 38vh;
+  box-shadow: 0 0 20px rgba(72,98,85, 0.4);
+  box-sizing: border-box;
+  padding: 40px;
+  border-radius: 12px;
+}
+.container1 p{
+  text-align: center;
+  letter-spacing: 1px;  
+  font-size: 45px;
+  margin-bottom: 20px;
+  color: rgb(254, 255, 255);
+  font-weight: bold;
+}
+.editcon{
+  background-image: url(/assets/Blog-Cover2.gif);
+  background-size: cover;
+  height: 800px;
+  
+}
+.input,
+.msg .area{
+  width: 100%;
+  padding: 20px;
+  box-sizing: border-box;
+  margin-bottom: 25px;
+  border: 2px solid #e99782;
+  font-size: large;
+  font-weight: bold;
+  border-radius: 5px;
+  outline: none;
+  background-color: transparent;
+  color: #5c5c5c;
+}
+
+.login .input{
+  width: 48%;
+  float: left;
+  margin-right: 4%;
+  background-color: transparent;
+  font-size: large;
+}
+.login .input:last-child{
+  margin-right: 0;
+}
+
+.msg .area{
+  height: 200px;
+  background-color: transparent;
+  font-size: xx-large;
+  color: #5c5c5c;
+
+}
+.login input:hover{
+  background-color: #fff;
+}
+
+.subject input:hover{
+  background-color: #fff;
+}
+
+.msg textarea:hover{
+  background-color: #fff;
+}
+
+.btn{
+  width: 250px;
+  background: rgb(247, 168, 123);
+  height: 50px;
+  line-height: 50px;
+  text-align: center;
+  border-radius: 5px;
+  margin: 0 auto;
+  color: #fff;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.btn a{
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+}
+.input:focus,
+.msg .area:focus{
+  border: 2px solid rgb(209, 104, 55);
+}
+
+::-webkit-input-placeholder{
+  font-family: 'roboto';
+}
+
+
+/*              Viewport less then or equal to 1130px            */
+@media only screen and (max-width: 1130px){
+  .editor-background{
+    flex-direction: column;
+  }
+  .tile{
+    margin-top: 150vh;
+    margin-left: 16vh;
+  }
+  .editcon{
+    width: 120vh;
+  }
+  .container1{
+    width:100vh;
+    margin-left: 5vh;
+  }
+
+}
+
+
+
+
+

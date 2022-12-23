@@ -1,0 +1,117 @@
+
+{
+    "image":"public/bg.png",
+    "school":"What is Bloggerr",
+    "university":"Bloggerr allows you to ...",
+    "vid":"public/read.png",
+    "schoo":"Welcome...",
+    "universit":"Choose the perfect design and create a beautiful blog that fits your style. Choose from a selection of easy-to-use templates – all with flexible layouts and hundreds of background images and share your ideas with the world",
+    "sec2_image":"public/writing.gif",
+    "sec2_t1":"Read 100s of blogs avaible which meet your intrests and passion..",
+    "sec4_image":"public/world map.jpg",
+    "sec3_head":"Popular Categories",
+    "sec3_body":"Multiple categories to choose from",
+    "categories":["Food", "Lifestyle", "Shopping","Software","Tech"],
+    "cat":["Home", "Categories", "Pages","Contact Us","Login"],
+    
+    "main_head":"BLOGGERR",
+    "main_content":"Where Ideas And Creativity Come Together",
+    "main_post":"POST YOUR BLOG",
+    "end_pst_title":"Join millions of others",
+    "end_pst_body":"Whether sharing your expertise, breaking news, or whatever’s on your mind, you’re in good company on Bloggerr. Sign up to discover why millions of people have published their passions here.",
+
+
+    "depts": [ {
+    "image":"public/read1.png",
+    "dept_name":"Read",
+    "eligib":"Read 1000s of blogs available in different categories.",
+    "theme": "",
+    "electives":[]
+    },
+   
+    {
+    "image":"public/write.png",
+    "dept_name":"Write",
+    "eligib":"Share your thoughts and ideas with the world",
+    "theme": "",
+    "electives":[]
+   
+    },
+    {
+    "image":"public/security.png",
+    "dept_name":"Privacy",
+    "eligib":"While sharing your thoughts with the world, keep your identity a secret.",
+    "theme": "",
+    "electives":[]
+   
+    }],
+
+    "head_name":"Bloggerr",
+    "cats":["Home", "Software", "Technology", "Lifestyle","Shopping","Food"],
+    "site-content":"Posts",
+    "post-image":"./assets/Blog-post/bg3.jpg",
+    "post-image_2":"./assets/Blog-post/bg1.jpg",
+    "post-image_3":"./assets/Blog-post/blog22.jpg",
+    "post-image_4":"./assets/Blog-post/bg2.jpg",
+    "pi":"./assets/Blog-post/blog16.jpg",
+    "pi1":"./assets/Blog-post/blog18.jpg",
+    "pi2":"./assets/Blog-post/blog17.jpg",
+    "pi3":"./assets/Blog-post/blog19.jpg",
+    
+    "pi4":"./assets/Blog-post/blog8.jpeg",
+    "pi5":"https://blog.bizvibe.com/wp-content/uploads/2020/04/top-software-companies.jpg",
+    "pi6":"https://www.gorspa.org/wp-content/uploads/Software.jpg",
+    "pi7":"https://png.pngtree.com/thumb_back/fh260/background/20220427/pngtree-business-analysis-and-communication-contemporary-marketing-and-software-for-development-image_1090680.jpg",
+
+    "pi8":"./assets/Blog-post/blog20.jpg",
+    "pi9":"./assets/Blog-post/blog21.jpg",
+    "pi10":"./assets/Blog-post/blog22.jpg",
+    "pi11":"./assets/Blog-post/blog23.jpg",
+    
+    "user":"admin",
+    "date":"August 8th 2022",
+    "comm":"2 comments",
+    "side-bar":"Software",
+    "side-bar1" : "Technology",
+    "side-bar2" :"Lifestyle",
+    "side-bar3" :"Shopping",
+    "side-bar4" :"Food",
+    "span":"(10)",
+    "post-title":"10 juice recipies in hot summers",
+    "post-title_2":"The Spicy Coconut Milk Dressing I Love on Everything Lately",
+    "post-title_3":" 50+ Salad recipies",
+    "post-title_4":"Camping Recipes to Make Camping Meals No Big Deal",
+    
+    "title":"FOOD POSTS",
+    "title1":"SHOPPING POSTS",
+    "title2":"SOFTWARE POSTS",
+    "title3":"TECH POSTS",
+    "title4":"LIFESTYLE POSTS",
+
+    "btn":"Read More",
+    "post-body":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque voluptas deserunt beatae adipisci iusto totam placeat corrupti ipsum, tempora magnam incidunt aperiam tenetur a nobis, voluptate, numquam architecto fugit. Eligendi quidem ipsam ducimus minus magni illum similique veniam tempore unde?"
+,
+    "simg":"./assets/popular-post/m-blog-1.jpg",
+    "sdate":"January 14, 2019",
+    "scont":"New data recording system to better analyse road accidents",
+
+    "ntitle":"Newsletter",
+    "nbutton":"Subscribe",
+
+    "s1":"Travel",
+    "s2":"Illustration",
+    "s3":"Design",
+    "s4":"Love",
+    "s5":"Projects",
+
+    "ft":"About Us",
+    "ft1":"Newsletter",
+    "ft2":"Instagram",
+    "ft3":"Follow us",
+    "fc":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium quia atque nemo ad modi officiis iure, autem nulla tenetur repellendus.",
+    "fc1":"Stay update with our latest",
+    "fc2":"Let us be Social"
+    
+
+}
+
